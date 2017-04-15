@@ -1,4 +1,4 @@
-DemoFrontCover27.png 
+﻿DemoFrontCover27.png 
 
  DemoBackCover2.png 
 
@@ -12,7 +12,6 @@ So Far
 
 
 
-Or “KevSchool”
 
 
 
@@ -35,7 +34,10 @@ Or “KevSchool”
 
 
 
-Version 0.4
+
+
+Version 0.5
+Copyright 2017, Kevin Verre
 ________________
 
 
@@ -68,7 +70,7 @@ Chapter 1. Introduction to Me and This Book
 Who am I?
 
 
-I am someone who has learned a lot since being born, but it wasn’t easy! There is a lot of stuff I wish people had explained to me sooner or more clearly. I want to share what I’ve learned and what I think with you, the readers. That way, you’ll be a little bit better prepared for the real world than I was.
+I’ve learned a lot since being born, but it wasn’t easy! There is a lot of information I wish people had explained to me sooner or more clearly. I want to share what I’ve learned and what I think with you, the readers. That way, you’ll be a little bit better prepared for the real world than I was.
 
 
 I’m a twenty-seven year old author. I grew up in the United States and worked professionally as a software engineer. I moved across the country after college for work.
@@ -101,7 +103,7 @@ Am I qualified to write this book?
 I am not an expert on these subjects and I don’t pretend to be. However, I am knowledgeable about these topics and I have spent time thinking about or studying them. I’m hoping I won’t offend or upset any experts by writing this book. I love experts. I hope experts give me feedback on how I can improve the book. I hope that my writing avoids inaccuracies or misleading statements.
 
 
-You don’t have to be an expert to help people learn. The world has lots of opportunities to teach even if you’re not an expert.[a][b]
+You don’t have to be an expert to help people learn. The world has lots of opportunities to teach even if you’re not an expert.
 
 
 My writing is based on my own experiences and what I’ve learned from other sources. My learning experiences include graduating college, working several jobs, battling depression, my dating experiences, lots of reading, and more.
@@ -798,7 +800,7 @@ Happiness is something you do
 Instead of trying to be happy, try to be doing happy. Happiness is something you do. Instead of worrying about whether you are happy or how to achieve happiness, think about doing things happily. This mean could mean changing what you’re doing and/or changing how you do things.
 
 
-This isn’t an original idea. It’s something that I found online in a forum comment. But it stuck with me.
+This isn’t an original idea. It’s something that I found online in a forum comment. But it stuck with me. Anytime I’m in the middle of doing a chore I try to remind myself that I can try to do it happily.
 
 
 The future of mental health
@@ -827,7 +829,7 @@ All of the other chapters in this book involve education in some way. Education 
 My educational background
 
 
-I was always a smart kid growing up. I think this is because my parents taught me a lot. They had both been teachers when they were young adults, so they loved teaching kids. They spent time teaching me math and reading. They also gave me plenty of educational books and games. (Of course, that’s not the only way to be smart kid, as there are plenty of smart kids without those things.)
+I was always a smart kid growing up. I think this is because my parents taught me a lot. They had both been teachers when they were young adults, so they loved teaching kids. They spent time teaching me math and reading. They also gave me plenty of educational books and games. (Of course, that’s not the only way to be a smart kid, as there are plenty of smart kids without those things.)
 
 
 In high school I loved reading the history textbooks so I thought I might go to college for history or political science. I was also very good at math so I thought maybe I would be a mathematician. Then I discovered computer programming and went into computer science instead.
@@ -851,7 +853,7 @@ We all start off knowing almost nothing. The world is full of challenges, obstac
 Different methods of learning
 
 
-There are lots of different ways to learn things. Some examples: you can learn by by taking classes or classes, talking to your friends and family, by reading books, by going to school and college, by watching videos, by reading websites, etc. Some education comes from formal education, such as grade school, high school, college, trade school, graduate school. Other education comes from informal education, such as books, private lessons, online tutorials, etc.
+There are lots of different ways to learn things. Some examples: you can learn by by taking classes, talking to your friends and family, by reading books, by going to school and college, by watching videos, by reading websites, etc. Some education comes from formal education, such as grade school, high school, college, trade school, graduate school. Other education comes from informal education, such as books, private lessons, online tutorials, etc.
 
 
 For formal education, there are a lot of different questions we could investigate. What should be taught? Who should pay for it? What should that money be spent on? What tests should be given to students and what material should should those tests cover?
@@ -902,7 +904,7 @@ Meaningful projects
 I was assigned a lot of projects for my classes. I worked on these projects either individually or with a team of my classmates. Sometimes I would do a really great job on the project. I would be motivated to produce really great work and be very creative. However, I didn’t always give my best effort or produce a great final product. Sometimes I was not motivated at all.
 
 
-I think how meaningful to me the project was determined how motivated I was to work on it. All of the projects were graded by teachers. A meaningful project was one that had value to me in addition to the grade. I wasn’t inspired by getting good grades, but I was inspired by doing interesting work. It was something I proud of for other reasons besides the grade.
+I think how meaningful to me the project was determined how motivated I was to work on it. All of the projects were graded by teachers. A meaningful project was one that had value to me in addition to the grade. I wasn’t inspired by getting good grades, but I was inspired by doing interesting work. It was something I was proud of for other reasons besides the grade.
 
 
 For example, one time I took a class on databases and got to build a little social network. It was really fun to work on. I learned a lot. I loved showing it to others. And it was something I wanted to keep working on after the class ended.
@@ -931,7 +933,7 @@ One of the best ways to learn about a topic is to teach about that topic. The pr
 Attempting to write this book has encouraged me to learn a lot about the topics I cover.
 
 
-You don’t need to literally be teaching someone else either. For example, you can create a study guide for a topic. You’ll learn a lot by doing so, even if you don’t show anyone else the study guide. This is a much more effective way of studying than just reviewing your notes. I remember my calculus teacher had us prepare for the final by creating a study guide and turning it in. I understood calculus much better after creating my own study guide for it.
+You don’t need to literally be teaching someone else either. For example, you can create a study guide for a topic. You’ll learn a lot by doing so, even if you don’t show anyone else the study guide. This is a much more effective way of studying than just reviewing your notes. I remember my calculus teacher had us prepare for the final exam by creating a study guide and turning it in. I understood calculus much better after creating my own study guide for it.
 
 
 When I work as a programmer, I occasionally come across a problem I don’t understand. Sometimes when I am explaining the problem to someone else, whether in person or via an email, I will realize what the cause of the problem is. This is so common in programming that there is a term for it: “rubber duck debugging”. The name comes from figuring out how to fix bugs in code just by explaining your code to an inanimate object, such as a yellow rubber duck.
@@ -940,7 +942,7 @@ When I work as a programmer, I occasionally come across a problem I don’t unde
 My own experience with creating educational content
 
 
-Last year I wrote a guide explaining how to use Git™. Git is a software tool that programmers use to help they manage the code they write. It is a widely used tool, but it is also very difficult to learn how to use.
+Last year I wrote a guide explaining how to use Git™. Git is a software tool that programmers use to help manage the code they write. It is a widely used tool, but it is also very difficult to learn how to use.
 
 
 Writing the guide was a lot of fun. I shared it with some of my friends who are programmers and they were very appreciative. I also learned more about Git while writing it.
@@ -1006,7 +1008,7 @@ Why did I read so much fiction for school?
 When I was in high school, I took an English literature class every semester. Sometimes we read nonfiction, but most of the time we read fictional books. We would discuss the books in class and also write essays about them. These were the classes I struggled with the most during high school. At that time, I didn’t understand why I was being taught fiction. I didn’t understand how to discuss the important parts of the book during class. I also didn’t know how to consistently write good essays. 
 
 
-Fiction novels and poetry can teach us a lot about the real world. The writing can express ideas, thoughts, feelings, morals, inspiration, and lessons. The authors use their writing to teach the reader what they think and feel. We can use this to help us come to our own conclusions about what we should think and feel. Fiction can help us explore new, complex ideas.
+Fiction novels and poetry can teach us a lot about the real world. The writing can express ideas, thoughts, feelings, morals, inspiration, and lessons. The authors use their writing to teach the reader what they think and feel. We can use this to help us come to our own conclusions on what we think and feel. Fiction can help us explore new, complex ideas.
 
 
 However, it wasn’t clear to me at the time why I was being asked to read so much fiction. The lessons in the books were sometimes very subtle. I didn’t always know how to connect those lessons from fiction to my own life. Also, reading lots of good books did not feel like it helped me to become a good writer!
@@ -1081,7 +1083,7 @@ Why college costs so much
 Going to a university in the United States can be expensive. There are probably many reasons why college costs so much. One important reason is that the demand for a college education has increased. Universities are willing to raise tuition prices because many students will attend despite the increased cost. Scholarships and student loans allow more students to afford a college education.
 
 
-The price will stay high or increase as long as enough students enroll at the current price. A university will only its price if the university feels it cannot attract enough students to enroll at the current price.
+The price will stay high or increase as long as enough students enroll at the current price. A university will only decrease its tuition if the university feels it cannot attract enough students to enroll at the current price.
 
 
 Is college worth its high cost?
@@ -1168,10 +1170,7 @@ There are some websites and apps for book summaries. However, I haven’t found 
 Creating a summary for a book does NOT infringe on the copyright of that book, as long as your summary is in your own words. Copyright protects the arrangements of words but does not protect the ideas. You are free to express those ideas in your own words. Still, some people might feel that creating and distributing a summary is unfair to the original author.
 
 
-If you want to summarize parts of this book, go right ahead. Just make sure I’m probably credited.
-________________
-
-
+If you want to summarize parts of this book, go right ahead. Just make sure I’m properly credited.
 Chapter 4. Career and Work
 
 
@@ -1473,7 +1472,7 @@ Word of mouth is a very effective form of marketing. If I tell someone that I lo
 There are other ways that enthusiastic fans can help grow your product. They might be more willing to write a positive review on Yelp or the app store. They might be more likely to give you helpful feedback and report bugs. In online forums and social media websites, they might respond to more posts and leave more comments.
 
 
-I sometimes think of product design improvements as a form of marketing. Because the increase in customer satisfaction will lead to more customers providing free advertising.
+I think of product design improvements as a form of marketing since the increase in customer satisfaction will lead to more customers providing free advertising.
 
 
 In contrast, there are some products that I use a lot but I don’t recommend to others. Usually this is because I don’t like the user experience enough to recommend it. For example, a software program might be really helpful but also difficult to use. I don’t want to recommend it to others because I dislike how difficult it is to use. If I do mention it at all, I will say something like, “I use X, but I wish there was a better alternative."
@@ -1530,7 +1529,7 @@ Confused users are a result of bad design
 I used to think that if someone was struggling to use a computer program, it was because that person was bad with computers. Similarly, people who are bad with computers tend to blame themselves for not knowing enough.
 
 
-However, the problem is not the user. The problem is that the computer software is not easy to use. Plenty of software is poorly designed and built, which makes it a lot more difficult to use. Now whenever I see someone struggle with a computer program, I think about how I could’ve made it easier to understand.
+However, the problem is not the user. The problem is that the computer software is not easy to use. Plenty of software is poorly designed and built, which makes it a lot more difficult to use. Now whenever I see someone struggle with a computer program, I think about how I could have made it easier to understand.
 
 
 Some bad design comes from bad designers
@@ -1713,7 +1712,7 @@ Good designers can correctly predict how changes in design will affect user beha
 I’ve seen A/B testing used incorrectly. For example, the testing is set up in a way that the results aren’t helpful. Or a good user experience is sacrificed in order to get better quantitative results. Or bad ideas are A/B tested rather than being well thought out.
 
 
-A/B testing can be very effective in certain cases. For example, in marketing and email campaigns. Imagine you have two ideas for a banner ad that you want to use to advertise your product on Facebook. You could set up a test to see which one is more effective at getting people to click on the ad and purchase your product.
+A/B testing can be very effective in certain cases such as marketing and email campaigns. Imagine you have two ideas for a banner ad that you want to use to advertise your product on Facebook. You could set up a test to see which one is more effective at getting people to click on the ad and purchase your product.
 
 
 Beautiful design can be objective, not just subjective
@@ -1834,7 +1833,7 @@ It’s important to note that these disagreements can arise even when competing 
 Which policies are implemented depends on how people vote and politicians decide. People change their beliefs about the government based on their experiences and knowledge.
 
 
-The importance of Free Speech
+The Importance of Free Speech
 
 
 The freedom of speech has always been a valued liberty in the United States. The idea is that the government should not have the power to punish, censor, or control what you say or how you express your opinions.
@@ -1930,7 +1929,7 @@ Only the people who vote get their vote counted and influence the result. There 
 Other times, people don’t vote because they haven’t put in the time and effort to vote. If you want someone to vote in support of you, you have to convince them to actually vote. Unfortunately, it’s not always easy or simple to vote. Even when it is easy and simple, it can still be perceived as being difficult.
 
 
-The “User Experience” of being a citizen
+The “User Experience” of Being A Citizen
 
 
 Interacting with the government can sometimes be frustrating or confusing. When it is, this is a bad “user experience” for the citizen.
@@ -1981,7 +1980,7 @@ One example of misleading information is a misleading title or headline. Some we
 Additionally, it’s nice to get your media from a variety of sources so that you get a variety of opinions. Otherwise you may only hear part of the story or some of the ideas. There are dozens of sides to every story.
 
 
-Many websites are popular because they reinforce what the reader already believes. This can lead to misunderstandings and misrepresentations of the other side. It is better to practice listening, understanding, and empathy towards people you disagree with because you can be sure you're not misunderstanding them.
+Many websites are popular because they reinforce what the reader already believes. This can lead to misunderstandings and misrepresentations of the other side. It is better to practice listening, understanding, and empathizing towards people you disagree with.
 
 
 Opposing political opinions can be stressful
@@ -2113,7 +2112,7 @@ Morals develop because they are logically based on what you believe. Morals are 
 Why gay marriage is still an important issue
 
 
-Currently, gay marriage is legal everywhere in the United States. The Supreme Court rules that gay couples have a constitutional right to marriage. 
+Currently, gay marriage is legal everywhere in the United States. The Supreme Court ruled that gay couples have a constitutional right to marriage. 
 
 
 I sometimes hear the opinion that we no longer need to talk about gay marriage. Or that it gets too much attention. To me, it is still a very important issue.
@@ -2252,7 +2251,7 @@ Why diet and exercise are important
 There are many reasons why eating a healthy diet, getting enough exercise, and maintaining a healthy weight are helpful. Some of those reasons are well known, but others are "hidden benefits". 
 
 
-Good diet and exercise can help decrease the risk of a heart attack, Type II Diabetes, stroke, some types of cancer, and depression. It can give you more energy and strength. It can help improve you get enough sleep at night. It can also improve your confidence, motivation, and self-esteem.
+Good diet and exercise can help decrease the risk of a heart attack, Type II Diabetes, stroke, some types of cancer, and depression. It can give you more energy and strength. It can help you get enough sleep at night. It can also improve your confidence, motivation, and self-esteem.
 
 
 Make exercise fun
@@ -2282,7 +2281,7 @@ It’s fun to eat food, especially if the food has a delicious flavor. Unfortuna
 Learn to identify healthy and unhealthy foods
 
 
-Everybody knows that some food are healthier than others. My feeling is that people are bad at identifying how healthy a meal is. This makes it harder to eat a healthy diet.
+Everybody knows that some foods are healthier than others. My feeling is that people are bad at identifying how healthy a meal is. This makes it harder to eat a healthy diet.
 
 
 Imagine you are at a restaurant or a grocery store. You have many options for food to choose from. Which do you choose and why? When I go out to eat with people who tell me they are trying to lose weight, they sometimes fail to pick a meal that is delicious and healthy. To make a good decision, you have to know a lot about the menu.
@@ -2303,16 +2302,22 @@ Eating habits
 Signals from your brain influence how hungry you are and what you’re hungry for. So if you typically eat large amounts of junk food, your brain could cause you to crave junk food.
 
 
+People tend to think of dieting as a battle between their self-control and their hunger. But if you only focus on improving your willpower and self-control, the hunger and food cravings can win. Instead, you should also think about improving what your body craves and hungers for.
+
+
+To eat healthy you have to train your brain over time to want healthier food. Like anything else, the more you practice eating healthy, the easier it gets.
+
+
 The Diet Coke study
 
 
 Diet soda is marketed as being less fattening and better for you than regular soda (because it contains less sugar and calories). But one outcome from the San Antonio Heart Study suggests that the people who drank Diet Coke gained more weight than the people who drank regular Coke.
 
 
-That finding is counter-intuitive. Diet Coke was supposed to help people lose weight, not cause them to gain more. How can this be? We don’t know enough to be certain. One hypothesis proposed was that the diet soda caused people to eat more food. As if the artificial sweeteners tricked the brain and body into wanting more calories.
+That finding is counter-intuitive. Diet Coke was supposed to help people lose weight, not cause them to gain more. How can this be? We don’t know enough to be certain. One hypothesis proposed was that the diet soda caused people to eat more food, as if the artificial sweeteners tricked the brain and body into wanting more calories.
 
 
-Does this study prove that diet soda is more fattening or less healthy than regular soda? Not really. We can’t be sure yet. We need more studies and research before we can be conclusive. I like this story because it shows that results can counter-intuitive and that we still have a lot to study.
+Does this study prove that diet soda is more fattening or less healthy than regular soda? Not really. We can’t be sure yet. We need more studies and research before we can be conclusive. I like this story because it shows that results can be counter-intuitive and that we still have a lot to study.
 
 
 Your social network affects how healthy you are
@@ -2321,7 +2326,7 @@ Your social network affects how healthy you are
 New studies suggest your health might be influenced by your social network. This intuitively makes sense. The people around you influence your diet, exercise, and lifestyle decisions.
 
 
-Imagine your friends, family, and co-workers all eat very healthy and get lots of exercise. You’d probably eat healthier and get more exercise too. But now imagine that everyone around you eats a lot of unhealthy food and live a very sedentary lifestyle. It would be harder to eat well and get exercise in that scenario.
+Imagine that your friends, family, and co-workers all eat very healthy and get lots of exercise. You’d probably eat healthier and get more exercise too. But now imagine that everyone around you eats a lot of unhealthy food and live a very sedentary lifestyle. It would be harder to eat well and get exercise in that scenario.
 
 
 Too much stress can hurt your muscles
@@ -2357,7 +2362,7 @@ Some people put off or avoid going to the doctor. Why would someone not go to th
 Health insurance is very confusing
 
 
-Obtaining and using health insurance can be very confusing. For example, you might feel like you are paying too much for your health insurance. Or you might not know the cost of treating while using health insurance to help you pay for it. I know I have trouble learning and remembering all the important facts and terminology related to my health insurance.
+Obtaining and using health insurance can be very confusing. For example, you might feel like you are paying too much for your health insurance. Or you might not know the cost of treatment while using health insurance to help you pay for it. I know I have trouble learning and remembering all the important facts and terminology related to my health insurance.
 
 
 Vaccines do not cause autism
@@ -2419,7 +2424,7 @@ In my life, I’ve had times when I felt very attractive and confident. During t
 At other times, I felt very unattractive and it seemed like there weren’t any great girls that would date me. During those times, I started looking for dating advice that could help me.
 
 
-One of the differences that determined whether dating was difficult or easy was my attitude and confidence. When I was feeling good about myself, it showed and was attractive. When I was feeling bad about myself and needy, I was unattractive.
+One of the differences that determined whether I felt attractive or not was my attitude and confidence. When I was feeling good about myself, it showed and I was attractive. When I was feeling bad about myself and feeling needy, I was unattractive.
  
 When I was in a relationship, sometimes I would be a good boyfriend. Other times I probably could have been more fun, supportive, or happy. Past relationships helped me to learn and grow as a person.
 
@@ -2439,16 +2444,22 @@ Mate has lots of jokes and humor. It’s funny, but the humor might make it more
 Be attractive during dates by being attractive outside of dates
 
 
-When I started dating, I would worry a lot about what happened during the date itself. I knew I had to make a good impression on the girl, but I didn’t know how. I didn’t understand what she was judging me on or what she felt about me. I worried about what I said, what questions I asked, what I wore. I knew I was supposed to be confident, but I didn’t know how to come off as confident.
+When I started dating, I would worry a lot about what happened during the date itself. I worried about what I said, what questions I asked, what I wore. I didn’t understand what she was judging me on or what she felt about me. I knew I had to make a good impression on the girl, but I didn’t know how. I knew I was supposed to be confident, but I didn’t know how to come off as confident.
 
 
-As I got older, I learned what it meant to be confident and how to build genuine confidence. Confidence in life comes from being really happy and excited about your life, both the things you’ve done and the things you will do. Confidence in dating comes from being able to demonstrate to others that you are a good person to be in a relationship with.
+As I got older, I learned what it meant to be confident and how to build genuine confidence. Confidence in life comes from being really happy and excited about your life. Confidence in dating comes from being able to demonstrate to others that you are a good person to be in a relationship with.
 
 
-I also realized that there is a trick to being attractive during a date: the trick is to do attractive things outside of the date. To understand what I mean, imagine I have a first date on a Saturday. How attractive and confident I am during the date is influenced by what I did during the previous week and how I felt about myself. If I felt really good about the things I did recently then I will feel better about myself and my date will probably appreciate someone who is happy. So now, instead of worrying about what happens during a date, I focus on getting better at everything in my life outside of the date.
+I also realized that there is a trick to being attractive during a date: the trick is to do attractive things outside of the date.
 
 
-Why does this work? Your date is going to notice you are living a life that is fun, responsible, happy, and meaningful. These are clues to your date that you would make a great partner. I naturally gave more interesting answers to her questions because my life was more interesting. I became naturally more confidence when I had fewer frustrations, worries, and insecurities.
+To understand what I mean, imagine I have a first date on a Saturday. How attractive and confident I am during the date is influenced by what I did during the previous week and how I felt about myself.
+
+
+If I felt really good about the things I did recently then I will feel better about myself and my date will probably appreciate someone who is happy. So now, instead of worrying about what happens during a date, I focus on getting better at everything in my life outside of the date.
+
+
+Why does this work? Your date is going to notice you are living a life that is fun, responsible, happy, and meaningful. These are clues to your date that you would make a great partner. I naturally gave more interesting answers to her questions because my life really was more interesting. I became naturally more confidence when I had fewer frustrations, worries, and insecurities.
 
 
 Looking back on my dating experience, the times I was able to be in a happy relationship were the times when I was happiest with my life in general. I was also more confident while dating when I was spending time having fun with friends.
@@ -2460,7 +2471,7 @@ Neediness, non-neediness, and boundaries
 Blogger and author Mark Manson is the author of Models: How to Attract Women Through Honesty.  He likes to use the phrases “neediness” and “non-neediness” when writing about how to be more attractive.
 
 
-A needy person needs or wants stuff from others in order to be happy: love, affection, attention, obedience, arguments, approval, praise, etc. Needy people sometimes care too much about what other people think or try too hard to impress other people.
+A needy person needs (or wants) stuff from others in order to be happy: love, affection, attention, obedience, arguments, approval, praise, etc. Needy people sometimes try too hard to impress other people or care too much about what other people think.
 
 
 A non-needy person is someone who doesn’t need anything from other people to be happy. When you’re non-needy, you’re attractive and confident. You have self-esteem rather than self-doubt. You’re naturally someone who is great to be around.
@@ -2481,13 +2492,13 @@ Fix your negative traits first
 You can increase your attractiveness by either improving your positive traits (adding to your strengths) and by fixing your negative traits (reducing your weaknesses). However, fixing your negative traits is more important to your overall attractiveness and should be focused on first. 
 
 
-Examples of negative traits that can be fixed include: being out of shape, having poor hygiene, having a messy place to live, having bad habits, being a bad listener, having an unpleasant personality, being boring, being stubborn, being unhappy, having an unflattering clothing style, etc.
+Examples of negative traits that can be fixed include: having an unpleasant personality, having an unpleasant attitude, being out of shape, having poor hygiene, having a messy place to live, having bad habits, being a bad listener, being boring, being stubborn, being unhappy, having an unflattering clothing style or hair style, etc.
 
 
 People can still be attracted to you even if you have some deeply negative traits. However, these negative traits might make you unattractive to the type of person you’re looking for.
 
 
-When I was younger I struggled with dating because I was focusing too much on trying to add positive traits. The positive traits I wanted were being better looking, being more popular, etc. Instead, it would’ve been much more effective to focus on fixing the thing that were unappealing about me.
+When I was younger I struggled with dating because I was focusing too much on trying to add positive traits. The positive traits I wanted were to be good looking, to be popular, etc. Instead, it would’ve been much more effective to focus on fixing the thing that were unappealing about me.
 
 
 Life skills are attractive
@@ -2538,10 +2549,13 @@ It’s amazing how differently people treat you when you are confident compared 
 I first starting thinking about this because I started going dancing. I go to dance events for partner dances such as swing, blues, and salsa. Between each song you have the opportunity to ask someone to dance.
 
 
-I’ve noticed that when I’m confident and feeling good, everyone there is very nice and friendly to me.  Additionally, most people are willing to dance with me. But every once in awhile I’ll ask a girl to dance despite being super nervous about asking her. In this case, she will treat me very differently than if I had asked her confidently. When I’m nervous, the girl I’m talking to tends to be much less friendly and much more likely to turn down my offer to dance.
+I’ve noticed that when I’m confident and feeling good, everyone there is very nice and friendly to me.  Additionally, most people are willing to dance with me.
 
 
-So if you want people to treat you nicely and make it easier to make friends, it helps if you can pretend to be confident.
+But every once in awhile I’ll ask a girl to dance despite being super nervous about asking her. In this case, she will treat me very differently than if I had asked her confidently. When I’m nervous, the girl I’m talking to tends to be much less friendly and much more likely to turn down my offer to dance.
+
+
+So if you want people to treat you nicely and make it easier to make friends, it helps if you can develop your confidence, or at least pretend to be confident.
 
 
 Don’t be mean
@@ -2550,7 +2564,10 @@ Don’t be mean
 Being nice on a date is really attractive. It shows that you would be a good person to date again.
 
 
-I wish I had always been super nice to the girls I tried to date. I remember one time during college there was a girl I was trying to date that I was mean to on purpose. I did so because I had hoped that being mean to her would make her like me more. Not only is this manipulative, it is also didn’t work. It backfired completely and she never wanted to talk to me again. In retrospect, I realize that she already liked me a lot and was just hoping I would be nice to her.
+I wish I had been super nice to every girl I dated. I remember one time during college there was a girl that I liked that I was mean to on purpose. I did so because I had hoped that being mean to her would make her like me more.
+
+
+Not only is this manipulative, it is also didn’t work. It backfired completely and she never wanted to talk to me again. In retrospect, I realize that she already liked me a lot and was just hoping I would be nice to her.
 
 
 Why did I think that being mean to a girl would make her like me more? I had some misconceptions about dating and how to be attractive. It comes from an idea that I read about online but I misinterpreted. The idea (called “negging”) claims that the most attractive women will be unimpressed by all but the most confident men, and that acting too nice meant you weren’t confident enough.
@@ -2574,22 +2591,28 @@ You are not the only threat to your date’s safety, either. You also want them 
 Rejection
 
 
-Rejection is the scariest part of dating (for many people). I remember one time I experienced a horrible rejection from a single girl I had tried to ask out. Not only did she not want to go out with me, she didn’t want me to talk to her anymore. I felt horrible! I don’t know for sure what it was that she was feeling or thinking, but I think I creeped her out. I wanted her to like me or be friends me, not think I’m some kind of threat!
+Rejection is the scariest part of dating (for many people). I remember one time I experienced a horrible rejection from a girl I tried to ask out.
 
 
-Luckily, one of my friends was there to console me. She reminded me that I was a wonderful and kind person, no matter what that other girl thought about me. The other girl’s decision that I was someone to avoid was based on a very small information about me. The other girl didn’t know how wonderful I could be. And my information about her was similarly incomplete. I don’t know anything about what she was going through.
+Not only did she not want to go out with me, she didn’t want me to talk to her anymore. I felt horrible! I wanted her to like me or be friends me, not think I’m some kind of threat!
 
 
-That rejection was humiliating at first. But my friend’s advice allowed me to realize that I shouldn’t beat myself up. Her rejection of me was based on a judgement of me, not a full understanding of me. She just wasn’t the one for me. So I moved on.
+Luckily, one of my friends was there to console me. She reminded me that I was a wonderful and kind person, no matter what that other girl thought about me.
 
 
-Not only did I move on from wanting to go out with her, I also had to move on from trying to make amends with her. She didn’t want to talk to me again. That was frustrating because, at first, I really wanted to say something to her. I wanted to apologize, “Sorry for creeping you out. I didn’t intend to make you uncomfortable. I want to make it right some how so you think I’m a respectful guy.”
+The other girl’s negative reaction was based on a very small information about me. The other girl didn’t know how wonderful I could be. My information about her was similarly incomplete. I don’t know anything about what she was going through or what her side of the story was.
+
+
+That rejection was humiliating and painful at first. But my friend’s advice allowed me to realize that I shouldn’t beat myself up. The girl who rejected me just wasn’t the one for me. So I moved on.
+
+
+Not only did I move on from wanting to go out with her, I also had to move on from trying to make amends with her. She didn’t want to talk to me again. That was frustrating at first becacuse I really wanted to say something to her. I wanted to apologize, “Sorry for creeping you out. I didn’t intend to make you uncomfortable. I want to make it right some how so you think I’m a respectful guy.”
 
 
 I’m not sure if it is possible to make amends to her. Maybe the best way to make amends is to “pay it forward” by being extra respectful to other women.
 
 
-Try to get to a point where rejection doesn’t hurt you. That’s where I am now. This way I can focus my energy and emotions on being happy, making friendships, and being the best version of myself that I can be. And I don’t have to worry about being rejected. Other times I’ve gotten rejected and made a great friend.
+It’s great if you can get to a point where rejection doesn’t hurt you. That’s where I am now. This way I can focus my energy and emotions on being happy, making friendships, and being the best version of myself that I can be.
 
 
 Teaching people to be less awkward
@@ -2598,13 +2621,16 @@ Teaching people to be less awkward
 Wouldn’t it be great if people were taught how to be less awkward or creepy? Wouldn’t it be great if people were taught how to be more confident and attractive instead?
 
 
-These are difficult skills to learn because if you’re being awkward, you probably are not given clear feedback about it. The typical response is for people to say nothing about it. Most people probably aren’t aware that they are being awkward or creepy.
+These are difficult traits to improve because if you’re being awkward, you frequently are not given clear feedback about it. The typical response is for people to say nothing about it. In some cases, one person doesn’t realize that they are frustrating the other person.
 
 
-Awkwardness can come from not empathizing enough with the person you are interacting with. I’ve seen cases where one person doesn’t realize that they are frustrating the other person. The opposite also happens: you think you are bothering someone when really they are happy to be there for you. 
+Awkwardness can come from not empathizing enough with the person you are interacting with. The opposite also happens: you may think you are bothering someone when really they are happy to be there for you.
 
 
-I’ve also seen people who talk too much without listening enough. You can ask a trusted friend to help you work on your own issues.
+I’ve also met people who talk too much without listening enough.
+
+
+You can ask a trusted friend to help you work on your own issues.
 
 
 Dating apps
@@ -2622,7 +2648,7 @@ Dating apps make it easier to meet a large variety of people to date. This remin
 An anecdote about race and dating
 
 
-I was talking with a woman and she told me this story that stuck with me. She was from Vietnam. She dated a Chinese man for multiple years and was very much in love with him. But the Chinese man’s parents did not want their son to date a Vietnamese girl. They looked down on the Vietnamese for having darker skin and not being as wealthy. The couple broke up.
+I was talking with a woman from Vietnam and she told me this story that stuck with me. She dated a Chinese man for multiple years and was very much in love with him. But the Chinese man’s parents did not want their son to date a Vietnamese girl. They looked down on the Vietnamese for having darker skin and not being as wealthy. The couple broke up.
 
 
 Many years later she was raising her daughters in the United States. At first she suggested to her daughters that it would be bad to date hispanic or black guys. So she encouraged the same kind of racial discrimination that she herself had been a victim of. Later, when she recognized this, she changed her opinion and told her daughters they should date whatever race they want.
@@ -2631,13 +2657,16 @@ Many years later she was raising her daughters in the United States. At first sh
 Some people are feeling hopeless about dating, and venting those frustrations online
 
 
-I’ve encountered people who feel hopeless about dating. The majority of these people are men who feel unwanted and believe they will never be good enough to have a girlfriend or be happily married.
+I’ve encountered people online who feel hopeless about dating. The majority of these people are men who feel unwanted and believe they will never be good enough to have a girlfriend or be happily married. They form online communities to discuss and vent with one another.
 
 
-I find these people when they vent their frustrations online. Online communities have formed for people who feel hopeless. But even within one of these communities, there is a lot of variety of opinions and ideas. Some think they are cursed with dating failure due to genetics. Others are trying to make changes to themselves to get better. A few men even have extreme, dangerous, and misogynistic ideas. For example, men who express that all women are horrible or evil people.
+But even within these communities, there are a wide variety of opinions and ideas.
 
 
-I care a lot about helping people work through their problems. So I try to listen to and respond to people online when they are frustrated. I think it’s very noble when someone helps someone else with their dating life.
+Some are trying to change themselves to get better. (That’s what I would encourage them to try to do.) Others feel they are uncurably cursed with dating failure due to genetics. A few men even have extreme, dangerous, and misogynistic ideas. For example, men who express that all women are horrible or evil people.
+
+
+I care a lot about helping people work through their problems. So I try to listen to and respond to people online when they are frustrated. I think it’s very noble to help someone else with their dating life.
 
 
 What would I tell those men and women that are frustrated or angry? First, I would say to keep an open mind and beware of misconceptions. For example, you might feel like no one could ever love you but then later you end up in a relationship after making some changes to yourself. This happens when you don’t understand why your romantic interests reject you. Or you don’t understand how to improve yourself.
@@ -2652,10 +2681,10 @@ Communication and trust are incredibly important for a good relationship
 The most common advice for someone with a relationship problem is, have you talked to your significant other about it?
 
 
-Many times, the person who is upset HAS already tried talking to their significant other about it. And if that doesn’t work, what then?
+Many times, the person HAS already tried talking to their significant other about it. And if that doesn’t work, what then?
 
 
-I think that’s why couples therapy is seen as being very effective. The counselor can help make sure the discussion is fair and addresses the issues.
+I think that’s why couples therapy is very effective. The counselor can help make sure the discussion is fair and addresses the issues.
 
 
 Trust is also very important to a relationship. If you aren’t trustworthy, or if you can’t trust your partner, your relationship is going to be very rocky.
@@ -2667,10 +2696,10 @@ When to End a Relationship
 Relationships are a complicated topic. One common problem I see (from my own relationships, from talking to friends, reading online) is that sometimes you are not sure if you should continue a relationship or end it.
 
 
-Deciding to end a relationship is a difficult choice. You wonder if the relationship is salvageable or not. You also might be afraid of being single again. You’re not sure if ending the relationship will make you happier. Some people even want to end the relationship because they think it will make their partner happier.
+Deciding to end a relationship is a difficult choice. You wonder if the relationship is salvageable or not. You’re not sure if ending the relationship will make you happier. You also might be afraid of being single again. Some people even want to end the relationship because they think it will make their partner happier.
 
 
-You have to really think about what you absolutely need from the relationship and separate it from what you want but don’t absolutely need. Trust and respect for your partner are things you need. Enjoying the exact same set of activities is probably a want but not a need.
+You have to really think about what you absolutely need from the relationship and separate it from what you want but don’t absolutely need. Trust and respect for your partner are things you need. Enjoying the exact same set of hobbies is probably a want but not a need.
 
 
 Being open and honest is better in the long run. Let your partner know when you think you might not be able to satisfy one of their needs. Being dishonest might be able to keep a relationship going for a while longer, but I don’t know if it will save it.
@@ -2680,7 +2709,7 @@ ________________
 Chapter 9. Science
 
 
-Introduction to science
+Introduction to Science
 
 
 Science attempts to give us a better understanding of the world and of the universe. The universe is a very complicated place. It’s made up of so many different parts and systems. It’s not easy for us as human beings to understand our universe, but as a species we have gotten better at it over time. Our scientific beliefs and understandings have always been changing. In order to better understand science we’ve had to invent new tools, design new tests, witness new observations, imagine new hypotheses, make new discoveries, and report new findings.
@@ -3159,7 +3188,7 @@ In this chapter, I describe some ideas I’ve had. These ideas are for small pro
 I got the phrase “Future Work” from research papers in scientific journals. Authors of scientific papers will sometimes include a section where they describe further research that they think would have interesting results.
 
 
-Why are my ideas for my own future included in this book? And why should you care about these ideas? It gives you more insight into my imagination. The question “What would I like to work on or achieve in the future?” is a great question. It gives you a better understanding of how am thinking and feeling at this moment. My dreams are just as much a part of my thoughts as the knowledge and opinions I shared elsewhere in this book.
+Why are my ideas for my own future included in this book? And why should you care about these ideas? It gives you more insight into my imagination. The question “What would I like to work on or achieve in the future?” is a great question. It gives you a better understanding of how I am thinking and feeling at this moment. My dreams are just as much a part of my thoughts as the knowledge and opinions I shared elsewhere in this book.
 
 
 I also hope that writing out these ideas will be enjoyable to read. It might inspire a few readers to help me with these ideas or try the ideas themselves.
@@ -3228,10 +3257,12 @@ Articles for computer programmers
 I’d be interested in writing, or helping to write, some educational articles for computer programmers. Programming is a huge field, so there is a lot I could write about that would be helpful to people who are trying to learn more about programming. I could write topics for beginners on novice subjects that I am very familiar with. Or I could write about more advanced topics, which might encourage me to learn more myself.
 
 
-Last year I wrote a guide explaining how to use Git™. Git is a computer program that software developers use to help manage the code they write. 
 
 
-Last year I wrote a guide explaining how to use Git™. Git is a computer program that software developers use to help manage the code they write. It is extremely popular in the software industry, but it is also very confusing for beginners. I shared my guide with some of my friends and they were grateful for my writing. It helped them to quickly learn more about Git and made them more productive at work. You can read my guide to Git here: www.github.com/kevinverre/kevins-guide-to-git 
+Last year I wrote a guide explaining how to use Git™. Git is a computer program that software developers use to help manage the code they write. It is extremely popular in the software industry, but it is also very confusing for beginners.
+
+
+I shared my guide with some of my friends and they were grateful for my writing. It helped them to quickly learn more about Git and made them more productive at work. You can read my guide to Git here: www.github.com/kevinverre/kevins-guide-to-git 
 
 
 A series of interviews with experts
@@ -3333,7 +3364,7 @@ Host hackathons
 A hackathon is an event that attendees go to so they can work on something that they want to work on. A “hack” is anything that is cleverly built. Hackathons are popular in the software industry.
 
 
-It would be fun to host events like these because it would encourage people to try working on new things and create cool projects.
+It would be fun to host events like these because it would encourage people to try working on new things and create cool projects. People use hackathons to write software but also to create art, music, and writing.
 
 
 Work as a software engineer
@@ -3421,9 +3452,3 @@ Thank you to anyone who gives me feedback on the book (questions, criticism, pra
 
 
 A huge thank you to anyone who recommends this book to others. This is a really great way for fans to help support the book.
-
-
-
-
-
-
